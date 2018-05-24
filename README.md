@@ -1,5 +1,5 @@
 # Configuration file for `POA Network` networks
-
+ 
 Each network must have branch with `chain.json`, `bootnodes.txt`
 If there are script they should be in `script/` directory.
 
